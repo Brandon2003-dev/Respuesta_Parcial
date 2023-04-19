@@ -2,7 +2,7 @@
 
 int datol = 16;
 String dato2 = "25g";
-int resultado = datol + Convert. ToInt32( dato2):
+int resultado = datol + Convert. ToInt32( dato2);
 
 //Codigo reparado con la sintaxis “try…catch”
 
